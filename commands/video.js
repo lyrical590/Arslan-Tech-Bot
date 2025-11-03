@@ -1,3 +1,6 @@
+/* _Aralan-Tech-Hub_ Bot
+CODED BY ARSLAN-MD OFFICIAL*/
+
 const axios = require('axios');
 const yts = require('yt-search');
 
@@ -100,3 +103,5 @@ async function videoCommand(sock, chatId, message) {
 }
 
 module.exports = videoCommand;
+
+/* CODED BY ARSLAN-MD */
